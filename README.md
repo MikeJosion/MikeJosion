@@ -6,8 +6,7 @@
 
 - 🔭 **Working on:** ![Data Structures](https://img.shields.io/badge/Data_Structures-21262d?style=flat-square) ![Algorithms](https://img.shields.io/badge/Algorithms-21262d?style=flat-square)
 
-- 🌱 **Learning:** ![C](https://img.shields.io/badge/.c-21262d?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/.py-21262d?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=white)
-
+- 🌱 **Learning:** ![C](https://img.shields.io/badge/.c-21262d?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/.py-21262d?style=flat-square&logo=python&logoColor=white)
 - ☁️ **Writing:** I keep track of my learning notes at **[MikeJosion.github.io](https://mikejosion.github.io)**
 
 - 💬 **Ask me about:** Everything returns to void, but we can talk about `Code` and `Silence`.
