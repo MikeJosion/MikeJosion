@@ -14,24 +14,6 @@
 
 <br />
 
----
-
-### 🧩 Problem Solving
-
-- Focus: Linked List / Stack / KMP  
-- Practicing with Wangdao Data Structures  
-- Daily coding & note-taking  
-
----
-
-### 📈 Growth
-
-- Building solid CS foundation  
-- Preparing for postgraduate entrance exam  
-- Consistency over intensity  
-
----
-
 <p align="left">
   <a href="https://mikejosion.github.io" style="text-decoration: none; color: #8b949e; font-size: 12px;">
     [ read_more ]
