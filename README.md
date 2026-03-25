@@ -16,11 +16,19 @@
 
 ---
 
-### 🧩 LeetCode Stats
+### 🧩 Problem Solving
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/optimistic-bhaskaravcc?theme=dark&font=Karma&ext=heatmap)
+- Focus: Linked List / Stack / KMP  
+- Practicing with Wangdao Data Structures  
+- Daily coding & note-taking  
 
-<br />
+---
+
+### 📈 Growth
+
+- Building solid CS foundation  
+- Preparing for postgraduate entrance exam  
+- Consistency over intensity  
 
 ---
 
